@@ -1,0 +1,7 @@
+{
+  "name": "RIENTRO",
+  "description": "Un'applicazione intelligente per la sicurezza personale che monitora il tuo tragitto e protegge i tuoi rientri in modo proattivo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
